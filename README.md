@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jose Cuellar</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Frontend Developer](Wordpress)
+- 🔭 I’m currently working on Frontend Developer, Wordpress
 
 - 🌱 I’m currently learning **cybersecurity**
 
-- 👯 I’m looking to collaborate on [Javascript](Css)
+- 👯 I’m looking to collaborate on Javascript, Css
 
 - 💬 Ask me about **nodes.js Laravel React**
 
