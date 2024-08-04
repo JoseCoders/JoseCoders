@@ -15,11 +15,7 @@
 
 ## Proyectos Destacados
 
-- ### [Mi Portafolio](https://josecoders.github.io/mi-portafolio/)                  
-Portafolio personal creado con HTML, CSS y JavaScript para mostrar mis habilidades y proyectos.
-
-### [Rapicompras](https://rapicompras.com.co/)
-Tienda online desarrollada con WordPress y WooCommerce, con integración a Droppi y Google Analytics.
+- ### [Mi Portafolio](https://josecoders.github.io/mi-portafolio/)     ### [Rapicompras](https://rapicompras.com.co/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
