@@ -17,12 +17,14 @@
 
 <table>
   <tr>
-    <td><a href="https://josecoders.github.io/mi-portafolio/" style="color: navy;">Mi Portafolio</a></td>
-    <td><a href="https://rapicompras.com.co/" style="color: navy;">Rapicompras</a></td>
+    <td style="background-color: navy; padding: 10px;">
+      <a href="https://josecoders.github.io/mi-portafolio/" style="color: white; text-decoration: none;">Mi Portafolio</a>
+    </td>
+    <td style="background-color: navy; padding: 10px;">
+      <a href="https://rapicompras.com.co/" style="color: white; text-decoration: none;">Rapicompras</a>
+    </td>
   </tr>
 </table>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
