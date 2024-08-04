@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences **Frontend Developer, Desarrollo en WordPress**
 
-- ### [Mi Portafolio](https://github.com/josecoders/mi-portafolio)
+- ### [Mi Portafolio](https://josecoders.github.io/mi-portafolio/)
 Portafolio personal creado con HTML, CSS y JavaScript para mostrar mis habilidades y proyectos.
 
 <h3 align="left">Connect with me:</h3>
