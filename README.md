@@ -15,7 +15,10 @@
 
 ## Proyectos Destacados
 
-- ### [Mi Portafolio](https://josecoders.github.io/mi-portafolio/)     - ### [Rapicompras](https://rapicompras.com.co/)
+<div style="display: flex; justify-content: space-between;">
+  <div><a href="https://josecoders.github.io/mi-portafolio/">Mi Portafolio</a></div>
+  <div><a href="https://rapicompras.com.co/">Rapicompras</a></div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
