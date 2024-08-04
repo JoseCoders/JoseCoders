@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences **Frontend Developer, Desarrollo en WordPress**
 
-## Proyectos Destacados
+<h3>Proyectos Destacados</h3>
 
 | [Mi Portafolio](https://josecoders.github.io/mi-portafolio/) | [Rapicompras](https://rapicompras.com.co/) |
 |-------------------------------------------------------------|--------------------------------------------|
